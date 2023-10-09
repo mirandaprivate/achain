@@ -3,7 +3,6 @@ name = "achain"
 version = "0.1.0"
 edition = "2021"
 authors = ["Miranda CONG <miranda.cong@logiocean.com>"]
-edition = "2021"
 description = "A Blockchain-based Accounting Information System"
 license = "MIT"
 
